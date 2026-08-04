@@ -1,7 +1,16 @@
-## Ziyi Guo (a.k.a. Maxela)
+<h1 align="center">Ziyi Guo</h1>
+<p align="center">
+  $\mathsf{\color{green} Mathematical\ Sciences}$ $|$ $\mathsf{\color{red} Theoretical\ Computer\ Science}$
+</p>
 
-<span style="color:green">Mathematical Sciences</span>
-<span style="color:red">Theoretical Computer Science</span>
+
+
+
+
+
+
+
+
 
 <!--
 **MaxelaZG/MaxelaZG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
