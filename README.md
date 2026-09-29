@@ -1,10 +1,10 @@
-<h1 align="center">$\text{Ziyi Guo}$</h1>
+<h1 align="center">$\text{Ziyi ``Maxela'' Guo}$</h1>
 <p align="center">
   $\mathsf{\color{green} Mathematical\ Sciences}$ $|$ $\mathsf{\color{red} Theoretical\ Computer\ Science}$
 </p>
 
 * Pronoun: _he/him_
-* Current Status: ❓
+* Contact me: [`maxela@163.com`](mailto:maxela@163.com)
 
 
 
