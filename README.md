@@ -3,8 +3,8 @@
   $\mathsf{\color{green} Mathematical\ Sciences}$ $|$ $\mathsf{\color{red} Theoretical\ Computer\ Science}$
 </p>
 
-* Pronoun: _he/him_
-* Contact me: [`maxela@163.com`](mailto:maxela@163.com)
+### Pronoun: _he/him_
+### Contact me: [`maxela@163.com`](mailto:maxela@163.com)
 
 
 
