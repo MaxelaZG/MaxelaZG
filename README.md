@@ -1,4 +1,4 @@
-<h1 align="center">$\text{Ziyi ``Maxela'' Guo}$</h1>
+<h1 align="center">Ziyi Guo (aka. Maxela)</h1>
 <p align="center">
   $\mathsf{\color{green} Mathematical\ Sciences}$ $|$ $\mathsf{\color{red} Theoretical\ Computer\ Science}$
 </p>
