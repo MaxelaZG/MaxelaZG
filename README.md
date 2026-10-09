@@ -2,9 +2,11 @@
 <p align="center">
   $\mathsf{\color{green} Mathematical\ Sciences}$ $|$ $\mathsf{\color{red} Theoretical\ Computer\ Science}$
 </p>
+<h3>
+Pronoun: he/him
 
-### Pronoun: _he/him_
-### Contact me: [`maxela@163.com`](mailto:maxela@163.com)
+  Contact me: [`maxela@163.com`](mailto:maxela@163.com)
+</h3>
 
 
 
